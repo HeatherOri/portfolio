@@ -332,6 +332,10 @@ p{
         padding: 300px 0;
     }
 
+    .demoText{
+        font-size: 25px;
+    }
+
 }
 
 @media (min-width: 0px) and (max-width: 450px){
