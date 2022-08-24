@@ -261,6 +261,7 @@ p{
     #myphoto{
         width: -webkit-fill-available;
         max-width: 250px;
+        max-height: 250px;
         height: auto;
         margin: 20px 30%;
     }
